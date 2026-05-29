@@ -8,39 +8,68 @@ The project focuses on analyzing sales performance, pricing insights, customer t
 The workflow includes:
 
 Data Extraction & Transformation using SQL Server
+
 Data Modeling and KPI Calculations using DAX
+
 Interactive Dashboard Development in Power BI
+
 
 This dashboard helps stakeholders monitor revenue, profit, quantity sold, customer metrics, and regional sales trends efficiently.
 
+
 Tools & Technologies Used
+
 SQL Server
+
 Data cleaning
+
 Data transformation
+
 Query optimization
+
 Aggregations and joins
+
 Power BI
+
 Dashboard creation
+
 Data visualization
+
 Interactive filtering
+
 DAX (Data Analysis Expressions)
+
 KPI calculations
+
 Profit margin measures
+
 Dynamic metrics
+
 Dashboard Features
+
 Key Performance Indicators (KPIs)
+
 
 The dashboard displays major business KPIs including:
 
+
 Total Revenue
+
 Average Revenue
+
 Total Profit
+
 Total Customers
+
 Profit Margin
+
 Quantity Sold
+
 Product Category Analysis
 
+
 Interactive donut chart showing performance across categories such as:
+
 
 Grinders & Brewers
 Subscriptions
