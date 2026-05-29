@@ -17,9 +17,9 @@ Interactive Dashboard Development in Power BI
 This dashboard helps stakeholders monitor revenue, profit, quantity sold, customer metrics, and regional sales trends efficiently.
 
 
-Tools & Technologies Used
+Tools & Technologies Used:
 
-SQL Server
+SQL Server-
 
 Data cleaning
 
@@ -29,7 +29,7 @@ Query optimization
 
 Aggregations and joins
 
-Power BI
+Power BI-
 
 Dashboard creation
 
@@ -37,7 +37,7 @@ Data visualization
 
 Interactive filtering
 
-DAX (Data Analysis Expressions)
+DAX (Data Analysis Expressions)-
 
 KPI calculations
 
@@ -45,9 +45,10 @@ Profit margin measures
 
 Dynamic metrics
 
-Dashboard Features
 
-Key Performance Indicators (KPIs)
+Dashboard Features:
+
+Key Performance Indicators (KPIs)-
 
 
 The dashboard displays major business KPIs including:
@@ -65,53 +66,86 @@ Profit Margin
 
 Quantity Sold
 
-Product Category Analysis
+Product Category Analysis:
 
 
 Interactive donut chart showing performance across categories such as:
 
 
 Grinders & Brewers
+
 Subscriptions
+
 Accessories
+
 Consumables
+
 Merchandise
+
 Trend Analysis
+
+
 
 Line chart visualization for:
 
+
 Daily sales trends
+
 Regional performance comparison
+
 East, North, South, and West region analysis
+
 Dynamic Metric Selector
+
+
 
 Users can dynamically switch metrics such as:
 
+
 Customers
+
 Margin
+
 Profit
+
 Quantity
+
 Revenue
+
+
 
 using slicers for better analysis.
 
+
 Year-Based Filtering
+
 
 Dashboard supports filtering for:
 
+
 2023
+
 2024
+
 2025
+
 
 allowing comparative analysis across years.
 
-SQL Server Work
+SQL Server Work:
 
 The initial phase of the project was completed in SQL Server, where:
 
+
 Raw sales data was imported
+
 Data cleaning was performed
+
 Missing values were handled
+
 Tables were joined
+
 Business logic was implemented
+
 Aggregated datasets were prepared for Power BI
+
