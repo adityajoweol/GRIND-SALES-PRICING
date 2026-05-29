@@ -149,3 +149,7 @@ Business logic was implemented
 
 Aggregated datasets were prepared for Power BI
 
+
+Dashboard photo :
+https://github.com/adityajoweol/GRIND-SALES-PRICING/blob/main/Snapshot%20of%20the%20dashboard.png
+
